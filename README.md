@@ -75,5 +75,3 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 
 - Neo-personajes: Geek, nerd, cyborg, ... y otras cosas
 
-# Ahora va a empezar un nuevo mundo
-
